@@ -1,4 +1,4 @@
-# TwoStrings---hackerrank
+# TwoStrings-hackerrank
 Two Strings kata from hackerrank - https://www.hackerrank.com/challenges/two-strings
 
 ------------------
